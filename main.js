@@ -1,0 +1,20 @@
+if(keypressed=='82'){
+    new_image('red.gif');
+    console.log("r");
+}
+if(keypressed=='71'){
+    new_image('green.gif');
+    console.log("g");
+}
+if(keypressed=='89'){
+    new_image('yellow.gif');
+    console.log("y");
+}
+if(keypressed=='80'){
+    new_image('pink.gif');
+    console.log("p");
+}
+if(keypressed=='66'){
+    new_image('blue.gif');
+    console.log("b");
+}
